@@ -1,14 +1,6 @@
 # CMS: Assignmnet 2
-## Group 007
+## Group 012
 
-------------------------------------
-### Group Members -
-
-1. Ayushman Kapoor - ayushman.kapoor@my.jcu.edu.au
-2. Matthew Cabinian - matthew.cabinian@my.jcu.edu.au
-3. Abhay Anil - abhay.anil@my.jcu.edu.au
-4. SeongNyeon Kim - v1999vvv@gmail.com
-5. Alexander Steven Citrawinarno - alexander.stevenc@yahoo.com
 ------------------------------------
 
 ------------------------------------
@@ -100,7 +92,7 @@ git checkout -b development
 
 Link your local git with the remote<br/>
 ```
-git remote add origin https://github.com/JCUS-CMS/assignment-2-team-07.git
+git remote add origin https://github.com/JCUS-CMS/assignment-2-team-12.git
 ```
 
 now setup upstream<br/>
@@ -205,7 +197,7 @@ _**staging** = your <branch> that you want to push to_
   
 now check out the staging URL for changes:<br/>
 
-http://staging.cms-a2.ayushmank.sgedu.site/group-007/<br/>
+
 
 ------------------------------------
 
