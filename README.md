@@ -100,7 +100,7 @@ git checkout -b development
 
 Link your local git with the remote<br/>
 ```
-git remote add origin https://github.com/JCUS-CMS/assignment-2-team-07.git
+git remote add origin https://github.com/JCUS-CMS/assignment-2-team-12.git
 ```
 
 now setup upstream<br/>
@@ -205,7 +205,6 @@ _**staging** = your <branch> that you want to push to_
   
 now check out the staging URL for changes:<br/>
 
-http://staging.cms-a2.ayushmank.sgedu.site/group-007/<br/>
 
 ------------------------------------
 
